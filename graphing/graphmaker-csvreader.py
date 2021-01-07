@@ -49,7 +49,7 @@ def main():
     plt.legend((p1[0], p2[0]), ("LAN", "WAN"))
 
     # SAVE the graph
-    plt.savefig("/home/student/mycode/graphing/2018summaryv2.png")
+    plt.savefig("/home/student/static/2018summaryv2.png")
     print("Graph created.")
 
 if __name__ == "__main__":
