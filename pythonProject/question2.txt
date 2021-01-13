@@ -1,0 +1,6 @@
+When typed into your web browser, which of these URLs will reroute you to the Clorox website?
+
+A: www.beds.com
+B: www.bleach.com
+C: www.books.com
+D: www.bread.com

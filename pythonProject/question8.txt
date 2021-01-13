@@ -1,0 +1,6 @@
+Which of these movies is a sequel?
+
+A: “The Sixth Sense”
+B: “8 Mile”
+C: “102 Dalmatians”
+D: “Apollo 13”
