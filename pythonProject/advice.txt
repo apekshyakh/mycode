@@ -1,0 +1,9 @@
+I put most of the code in one module. I will split it out if it gets used in other applications
+
+For example I have code that is used by the API service and a worker behind the API I will split that code out so it can be shared.
+
+Good example would be database code.
+
+Most of the time I will split it out later once it become apparent that it will need to be used in multiple places
+
+The best guidance on how to structure code should come from the zen of python https://www.python.org/dev/peps/pep-0020/
